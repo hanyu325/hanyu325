@@ -1,4 +1,4 @@
-<h1 style="color: blue;"> Hanyu's Github </h1>
+<h1> Hanyu's Github </h1>
 <!--
 
 Here are some ideas to get you started:
