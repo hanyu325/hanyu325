@@ -1,4 +1,7 @@
 <h1> Hanyu's Github </h1>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanyu325&show_icons=true&locale=en&layout=compact" alt="hanyu" /></p>
+
 <!--
 
 Here are some ideas to get you started:
